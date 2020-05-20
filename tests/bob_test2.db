@@ -1,8 +1,7 @@
-a = 6 * 6
-b = a * -1
-
 def fun1(a, b):
     a / b
 
+let a = 6 * 6 in
+let a * -1 in
 fun1(a,b)
 // Should be -1

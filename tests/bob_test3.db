@@ -1,8 +1,7 @@
-a = 4 + 8
-b = 3 * 5
-
 def fun1(a, b):
     (a > b) == False
 
+let a = 4 + 8 in
+let b = 3 * 5 in
 fun1(a,b)
 // Should be True
